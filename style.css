@@ -1,0 +1,40 @@
+body{
+    background: #eee !important;
+    font-family: 'Lato' !important;
+}
+/*html {
+    width: 99.2%
+}*/
+.nav {
+    color: white;
+}
+.header {
+    text-align: center;
+    margin-top: 90px;
+    color: #76b900;
+    font-size: 30px;
+}
+.col {
+    background-color: 
+    color: white;
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 120px;
+    letter-spacing: 0.14em;
+}
+.image {
+  width: 100%;
+}
+.masfit {
+    background-color: #fe3e3e;
+    text-align: center;
+}
+.names {
+    color: #ffffff;
+    margin-top: 40px;
+    font-size: 21px;
+}
+.price {
+    color: #ffffff;
+    font-size: 21px;
+}
